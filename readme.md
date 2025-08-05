@@ -4,7 +4,7 @@ This project demonstrates the use of Erlang for building an interactive pattern-
 
 As a software engineer focused on learning functional programming and concurrent systems, I built this project to gain practical experience with Erlang's core concepts—such as pattern matching, recursion, message passing, and list processing. Through this hands-on approach, I deepened my understanding of Erlang’s syntax and functional paradigm.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/qjOOjnOJVr4)
 
 ---
 
